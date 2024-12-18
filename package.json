@@ -1,0 +1,28 @@
+{
+  "name": "authutils",
+  "version": "1.0.0",
+  "description": "TokenForge is a lightweight and flexible JWT utility library for Node.js, designed to simplify token creation, verification, and decoding. With built-in support for custom claims, expiry validation, and secure token handling, TokenForge ensures streamlined and secure authentication for your applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saicharan-Devcoder/AuthUtils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saicharan-Devcoder/AuthUtils/issues"
+  },
+  "homepage": "https://github.com/saicharan-Devcoder/AuthUtils#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
